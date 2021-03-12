@@ -5,11 +5,13 @@ source_metadata:
   title: བླ་མ་དགོངས་པ་འདུས་པ་ལས༔་སྔོན་འགྲོ་ཆོས་སྤྱོད་སོགས་ཀྱི་སྐོར
   author: ''
   volumes:
-    691cfe686ca343cfb1e1bfda6ae427ee:
+    c29924c734864551b73549e89252d94b:
       image_group_id: I1GS60394
-      title: ''
+      title: 'Volume 1 of bla ma dgongs pa ''dus pa las: sngon ''gro chos spyod sogs
+        kyi skor'
       volume_number: 1
       total_pages: 346
+      base_file: v001.txt
 ebook_metadata:
   title: བླ་མ་དགོངས་པ་འདུས་པ་ལས༔་སྔོན་འགྲོ་ཆོས་སྤྱོད་སོགས་ཀྱི་སྐོར
   author: ''
